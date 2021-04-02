@@ -1,6 +1,8 @@
 # nodejsmysqldockercompose
 A sample example of nodejs(dockerized container) and mysql(dockerized container).
 
+Checkout the medium article [here](https://varsubham.medium.com/nodejs-mysql-docker-compose-ad156cd0c885)
+
 ## Run
 ```
 docker-compose up
